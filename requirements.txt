@@ -1,0 +1,6 @@
+# Testing
+pytest>=7.0
+
+# For linting/formatting (optional but useful)
+flake8
+black
